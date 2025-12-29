@@ -12,3 +12,5 @@ use : git init -b main
 6. git commit -m "msg"
 
 7. git creates a checksum for every commit. Through this, all unsaved changes are tracked
+
+8. write and save files to working directory --> add them to staging area (git add) and then commit them to local .git

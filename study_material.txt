@@ -1,0 +1,11 @@
+1. git init --> creates a new, empty,local git repo named "Master"
+
+2. we need the branch to be called 'main" soooo 
+use : git init -b main
+
+3. git add <filename> to add files to staging area
+
+4. git log --> to view all past commits
+
+5. git add -u --> to add only the modified files and exclude new files
+

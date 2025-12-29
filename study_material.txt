@@ -17,8 +17,12 @@ use : git init -b main
 
 9. **PUSH AN EXISTING REPOSITORY FROM THE COMMAND LINE**
 
-git remote add origin https link
+git remote add origin https link (the origin is the https link name)
 git branch -M main
 git push -u origin main     
 
 10. to add new files to github: git add, git commit, git push
+
+11. Tag (like creating versions)
+    11.1 twwo types: annotated and lightweight
+    11.2 git tag -a name -m "msg"

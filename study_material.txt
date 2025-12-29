@@ -9,3 +9,6 @@ use : git init -b main
 
 5. git add -u --> to add only the modified files and exclude new files
 
+6. git commit -m "msg"
+
+7. git creates a checksum for every commit. Through this, all unsaved changes are tracked

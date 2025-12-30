@@ -26,3 +26,4 @@ git push -u origin main
 11. Tag (like creating versions)
     11.1 twwo types: annotated and lightweight
     11.2 git tag -a name -m "msg"
+    11.3 pushing tags to github: git push origin <tag_name>

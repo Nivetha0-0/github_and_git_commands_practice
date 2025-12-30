@@ -27,3 +27,8 @@ git push -u origin main
     11.1 twwo types: annotated and lightweight
     11.2 git tag -a name -m "msg"
     11.3 pushing tags to github: git push origin <tag_name>
+
+12. BRANCH:
+    12.1 git checkout -b <branch_name> --> creating and switching to a new (-b is used for tht) branch
+    12.2 git branch --> to get list of all branches
+

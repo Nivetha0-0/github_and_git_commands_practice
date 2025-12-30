@@ -19,7 +19,7 @@ use : git init -b main
 
 git remote add origin https link (the origin is the https link name)
 git branch -M main
-git push -u origin main     
+git push -u origin main/branchname     
 
 10. to add new files to github: git add, git commit, git push
 
